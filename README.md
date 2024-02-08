@@ -8,4 +8,4 @@ Not every textbook can be found online for free, but if the textbook can be foun
 Changed the libgen url to one that is working.
 Updated manifest to v3.
 Changed code to use const and let instead of var.
-Changed so the links create are opened in a new tab.
+Changed so the links created are opened in a new tab when clicked.
