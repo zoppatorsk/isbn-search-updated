@@ -1,5 +1,5 @@
-# isbn-search
-
+# isbn-search-updated
+This is a fork, did some fixes and updates
 ISBN-search traverses a web page replacing isbn numbers with links to a libgen search for the isbn number.
 Not every textbook can be found online for free, but if the textbook can be found online, it will likely be on libgen.
 
